@@ -51,7 +51,7 @@ To use this custom app in your store, you must declare its `dependencies` in the
 
 ```
   "dependencies": {
-     "itgloberspartnercl.pdf-reader": "0.x"
+     "itgloberspartnercl.custom-department-search": "0.x"
    }
 ```
 
